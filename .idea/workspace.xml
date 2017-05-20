@@ -2,238 +2,236 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78f6c08a-ba14-46bf-939d-64c91aec4a65" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-10.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-4.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-5.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-6.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles-9.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background/promo-bg-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background/promo-bg-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background/promo-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background/tour-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background/video-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/features/screenshot-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/features/screenshot-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/features/screenshot-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/features/screenshot-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/features/screenshot-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people/people-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people/people-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people/people-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/posts/post-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/posts/post-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/posts/post-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/posts/post-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/posts/post-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/press/press-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/press/press-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/press/press-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/press/press-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/press/press-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/press/press-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/animations.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/vimeo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/FitVids/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/FitVids/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/FitVids/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/FitVids/jquery.fitvids.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/FitVids/tests.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Responsive-HTML-Email-Template-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Responsive-HTML-Email-Template-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/Responsive-HTML-Email-Template-master/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/animate-config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/_base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/attention_seekers/bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/attention_seekers/flash.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/attention_seekers/pulse.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/attention_seekers/rubberBand.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/attention_seekers/shake.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/attention_seekers/swing.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/attention_seekers/tada.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/attention_seekers/wobble.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/bouncing_entrances/bounceIn.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/bouncing_entrances/bounceInDown.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/bouncing_entrances/bounceInLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/bouncing_entrances/bounceInRight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/bouncing_entrances/bounceInUp.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/bouncing_exits/bounceOut.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/bouncing_exits/bounceOutDown.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/bouncing_exits/bounceOutLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/bouncing_exits/bounceOutRight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/bouncing_exits/bounceOutUp.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_entrances/fadeIn.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_entrances/fadeInDown.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_entrances/fadeInDownBig.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_entrances/fadeInLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_entrances/fadeInLeftBig.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_entrances/fadeInRight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_entrances/fadeInRightBig.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_entrances/fadeInUp.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_entrances/fadeInUpBig.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_exits/fadeOut.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_exits/fadeOutDown.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_exits/fadeOutDownBig.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_exits/fadeOutLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_exits/fadeOutLeftBig.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_exits/fadeOutRight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_exits/fadeOutRightBig.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_exits/fadeOutUp.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/fading_exits/fadeOutUpBig.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/flippers/flip.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/flippers/flipInX.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/flippers/flipInY.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/flippers/flipOutX.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/flippers/flipOutY.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/lightspeed/lightSpeedIn.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/lightspeed/lightSpeedOut.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/rotating_entrances/rotateIn.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/rotating_entrances/rotateInDownLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/rotating_entrances/rotateInDownRight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/rotating_entrances/rotateInUpLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/rotating_entrances/rotateInUpRight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/rotating_exits/rotateOut.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/rotating_exits/rotateOutDownLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/rotating_exits/rotateOutDownRight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/rotating_exits/rotateOutUpLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/rotating_exits/rotateOutUpRight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/sliders/slideInDown.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/sliders/slideInLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/sliders/slideInRight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/sliders/slideOutDown.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/sliders/slideOutLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/sliders/slideOutRight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/sliders/slideOutUp.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/specials/hinge.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/specials/rollIn.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/animate-css/source/specials/rollOut.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/back-to-top.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap-hover-dropdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/.hound.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/README.mdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/flexslider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/fonts/flexslider-icon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/fonts/flexslider-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/fonts/flexslider-icon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/fonts/flexslider-icon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/images/bg_play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/jquery.flexslider-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/flexslider/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/HELP-US-OUT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/screen-reader.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/CONTRIBUTORS.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/isMobile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/isMobile.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/AndroidSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/AppleSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/DesktopSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/OtherSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/SevenInchSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/isMobile/tests/spec/WindowsSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-1.12.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-inview/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-inview/README.textile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-inview/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-inview/example/advanced.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-inview/example/live_event.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-inview/example/simple_example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-inview/jquery.inview.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-inview/jquery.inview.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-inview/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-inview/test/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/LICENSE-MIT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/jquery.placeholder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery-placeholder/tests/tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/jquery.validate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/pe-icon-7-stroke/css/helper.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/pe-icon-7-stroke/css/pe-icon-7-stroke.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/footer.ejs" afterPath="$PROJECT_DIR$/views/footer.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/header.ejs" afterPath="$PROJECT_DIR$/views/header.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/background/promo-bg-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/background/promo-bg-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/background/promo-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/background/tour-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/background/video-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/features/screenshot-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/features/screenshot-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/features/screenshot-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/features/screenshot-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/features/screenshot-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/people/people-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/people/people-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/people/people-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/posts/post-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/posts/post-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/posts/post-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/posts/post-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/posts/post-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/press/press-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/press/press-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/press/press-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/press/press-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/press/press-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/press/press-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/fonts/flexslider-icon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/fonts/flexslider-icon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/fonts/flexslider-icon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/images/bg_play_pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/styles-10.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/styles-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/styles-3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/styles-4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/styles-5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/styles-6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/styles-7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/styles-8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/styles-9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/animations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vimeo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/FitVids/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/FitVids/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/FitVids/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/FitVids/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/FitVids/tests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/Responsive-HTML-Email-Template-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/Responsive-HTML-Email-Template-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/Responsive-HTML-Email-Template-master/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/animate-config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/_base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/attention_seekers/bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/attention_seekers/flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/attention_seekers/pulse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/attention_seekers/rubberBand.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/attention_seekers/shake.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/attention_seekers/swing.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/attention_seekers/tada.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/attention_seekers/wobble.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/bouncing_entrances/bounceIn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/bouncing_entrances/bounceInDown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/bouncing_entrances/bounceInLeft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/bouncing_entrances/bounceInRight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/bouncing_entrances/bounceInUp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/bouncing_exits/bounceOut.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/bouncing_exits/bounceOutDown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/bouncing_exits/bounceOutLeft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/bouncing_exits/bounceOutRight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/bouncing_exits/bounceOutUp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_entrances/fadeIn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_entrances/fadeInDown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_entrances/fadeInDownBig.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_entrances/fadeInLeft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_entrances/fadeInLeftBig.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_entrances/fadeInRight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_entrances/fadeInRightBig.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_entrances/fadeInUp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_entrances/fadeInUpBig.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_exits/fadeOut.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_exits/fadeOutDown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_exits/fadeOutDownBig.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_exits/fadeOutLeft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_exits/fadeOutLeftBig.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_exits/fadeOutRight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_exits/fadeOutRightBig.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_exits/fadeOutUp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/fading_exits/fadeOutUpBig.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/flippers/flip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/flippers/flipInX.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/flippers/flipInY.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/flippers/flipOutX.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/flippers/flipOutY.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/lightspeed/lightSpeedIn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/lightspeed/lightSpeedOut.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/rotating_entrances/rotateIn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/rotating_entrances/rotateInDownLeft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/rotating_entrances/rotateInDownRight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/rotating_entrances/rotateInUpLeft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/rotating_entrances/rotateInUpRight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/rotating_exits/rotateOut.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/rotating_exits/rotateOutDownLeft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/rotating_exits/rotateOutDownRight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/rotating_exits/rotateOutUpLeft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/rotating_exits/rotateOutUpRight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/sliders/slideInDown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/sliders/slideInLeft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/sliders/slideInRight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/sliders/slideOutDown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/sliders/slideOutLeft.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/sliders/slideOutRight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/sliders/slideOutUp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/specials/hinge.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/specials/rollIn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate-css/source/specials/rollOut.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/back-to-top.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap-hover-dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/.hound.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/flexslider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/fonts/flexslider-icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/jquery.flexslider-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flexslider/jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/CONTRIBUTORS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/isMobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/isMobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/tests/spec/AndroidSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/tests/spec/AppleSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/tests/spec/DesktopSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/tests/spec/OtherSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/tests/spec/SevenInchSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isMobile/tests/spec/WindowsSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-1.12.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-inview/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-inview/README.textile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-inview/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-inview/example/advanced.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-inview/example/live_event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-inview/example/simple_example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-inview/jquery.inview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-inview/jquery.inview.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-inview/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-inview/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-placeholder/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-placeholder/LICENSE-MIT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-placeholder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-placeholder/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-placeholder/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-placeholder/jquery.placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-placeholder/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery-placeholder/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/pe-icon-7-stroke/css/helper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/pe-icon-7-stroke/css/pe-icon-7-stroke.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pathauthority.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -284,11 +282,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="222">
               <caret line="663" column="7" selection-start-line="663" selection-start-column="7" selection-end-line="663" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -327,6 +335,7 @@
         <option value="$PROJECT_DIR$/views/footer.ejs" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -430,9 +439,55 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="editor.config.accepted" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
   </component>
@@ -446,12 +501,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495255203533</updated>
-      <workItem from="1495255205583" duration="1525000" />
+      <workItem from="1495255205583" duration="1763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1525000" />
+    <option name="totallyTimeSpent" value="1763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="44" width="1404" height="778" extended-state="0" />
@@ -567,6 +622,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="663" column="7" selection-start-line="663" selection-start-column="7" selection-end-line="663" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
