@@ -921,20 +921,18 @@ body.modal-open {
   padding-top: 30px;
   position: relative;
   z-index: 10;
+  text-align: center;
 }
 .promo .intro .title {
   color: #fff;
   font-size: 38px;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
-  max-width: 720px;
   font-weight: bold;
   margin-bottom: 15px;
+  margin-top: 180px;
 }
 .promo .intro .summary {
   color: #fff;
   font-size: 22px;
-  max-width: 680px;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
   margin-bottom: 15px;
 }
 .promo .fixed-container {
@@ -2096,7 +2094,7 @@ body.modal-open {
 
 @font-face {
   font-family: 'AvenirRom';
-  src: url('../fonts/AvenirLTStd-Roman.ttf'); /* IE9 Compat Modes */
+  src: url('/fonts/AvenirLTStd-Roman.ttf'); /* IE9 Compat Modes */
 }
 
 @media (min-width: 1200px) {
@@ -2106,7 +2104,7 @@ body.modal-open {
 }
 
 .logo-text {
-  margin-top: -32px;
+  margin-top: -12px;
   display: block;
   width: auto;
   text-align: center;
@@ -2119,4 +2117,8 @@ body.modal-open {
 
 .main-logo {
   margin-top: 14px;
+}
+
+.sub-main {
+  background: #fff;
 }
