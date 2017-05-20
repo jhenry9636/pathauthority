@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Tempo - Responsive Website Template for Startups
  * Version: 1.7
  * Author: Xiaoying Riley
@@ -7,7 +7,7 @@
 */
 /* ======= Base ======= */
 body {
-  font-family: 'Lato', arial, sans-serif;
+  font-family: 'AvenirRom', arial, sans-serif;
   color: #444;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
@@ -299,7 +299,7 @@ select {
   width: 100%;
   top: 0;
   left: 0;
-  height: 620px;
+  height: 680px;
   background: #fff;
 }
 .bg-slider-wrapper .flexslider {
@@ -319,10 +319,10 @@ select {
 }
 .bg-slider-wrapper .flexslider .slide {
   display: block;
-  height: 620px;
+  height: 680px;
 }
 .bg-slider-wrapper .flexslider .slide.slide-1 {
-  background: #fff url('../images/background/promo-bg.jpg') no-repeat 50% top;
+  background: #fff url('../images/background/bg.masthead.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -356,7 +356,7 @@ select {
 /* ======= Header ======= */
 .header {
   padding: 15px 0;
-  background: #fff;
+  background: transparent;
   z-index: 888;
   -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
@@ -914,7 +914,7 @@ body.modal-open {
 /* ======= Promo Section ======= */
 .promo {
   position: relative;
-  min-height: 620px;
+  min-height: 682px;
 }
 .promo .intro {
   color: #fff;
@@ -961,7 +961,6 @@ body.modal-open {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
 }
 .promo .social {
-  background: #6dbd63;
   padding: 8px 0;
   -webkit-opacity: 0.8;
   -moz-opacity: 0.8;
@@ -2093,3 +2092,31 @@ body.modal-open {
   }
 }
 /* Large devices (large desktops, 1200px and up) */
+
+
+@font-face {
+  font-family: 'AvenirRom';
+  src: url('../fonts/AvenirLTStd-Roman.ttf'); /* IE9 Compat Modes */
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: auto;
+  }
+}
+
+.logo-text {
+  margin-top: -32px;
+  display: block;
+  width: auto;
+  text-align: center;
+}
+
+.logo-title {
+  display: inline-block;
+  margin: 0px 0px 0px -19px;
+}
+
+.main-logo {
+  margin-top: 14px;
+}
