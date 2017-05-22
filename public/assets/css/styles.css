@@ -180,7 +180,7 @@ select {
   width: 100%;
   top: 0;
   left: 0;
-  height: 680px;
+  height: 768px;
   background: #fff;
 }
 .bg-slider-wrapper .flexslider {
@@ -200,7 +200,7 @@ select {
 }
 .bg-slider-wrapper .flexslider .slide {
   display: block;
-  height: 685px;
+  height: 768px;
 }
 .bg-slider-wrapper .flexslider .slide.slide-1 {
   background: #fff url('../images/background/bg.masthead.jpg') no-repeat 50% top;
@@ -795,7 +795,7 @@ body.modal-open {
 /* ======= Promo Section ======= */
 .promo {
   position: relative;
-  min-height: 682px;
+  min-height: 768px;
 }
 .promo .intro {
   color: #fff;
@@ -2090,6 +2090,6 @@ body.modal-open {
 
 .main-summary {
   color: #fff;
-  font-size: 22px;
+  font-size: 25px;
   margin-bottom: 15px;
 }
