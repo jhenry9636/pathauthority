@@ -17,17 +17,7 @@ html,
 body {
   height: 100%;
 }
-.wrapper {
-  min-height: 100%;
-  margin-bottom: -296px;
-  /* equal to footer height */
-}
-.wrapper:after {
-  content: "";
-  display: block;
-  height: 296px;
-  /* must be the same height as footer */
-}
+
 .footer {
   height: 296px;
   /* must be the same height as footer */
@@ -182,116 +172,7 @@ select {
   /* Internet Explorer 10+ */
   color: #ccc;
 }
-.delayp1 {
-  animation-delay: .1s;
-  -moz-animation-delay: .1s;
-  -webkit-animation-delay: .1s;
-  -o-animation-delay: .1s;
-  transition-delay: .1s;
-  -webkit-transition-delay: .1s;
-  -moz-transition-delay: .1s;
-  -o-transition-delay: .1s;
-}
-.delayp2 {
-  animation-delay: .2s;
-  -moz-animation-delay: .2s;
-  -webkit-animation-delay: .2s;
-  -o-animation-delay: .2s;
-  transition-delay: .2s;
-  -webkit-transition-delay: .2s;
-  -moz-transition-delay: .2s;
-  -o-transition-delay: .2s;
-}
-.delayp3 {
-  animation-delay: .3s;
-  -moz-animation-delay: .3s;
-  -webkit-animation-delay: .3s;
-  -o-animation-delay: .3s;
-  transition-delay: .3s;
-  -webkit-transition-delay: .3s;
-  -moz-transition-delay: .3s;
-  -o-transition-delay: .3s;
-}
-.delayp4 {
-  animation-delay: .4s;
-  -moz-animation-delay: .4s;
-  -webkit-animation-delay: .4s;
-  -o-animation-delay: .4s;
-  transition-delay: .4s;
-  -webkit-transition-delay: .4s;
-  -moz-transition-delay: .4s;
-  -o-transition-delay: .4s;
-}
-.delayp5 {
-  animation-delay: .5s;
-  -moz-animation-delay: .5s;
-  -webkit-animation-delay: .5s;
-  -o-animation-delay: .5s;
-  transition-delay: .5s;
-  -webkit-transition-delay: .5s;
-  -moz-transition-delay: .5s;
-  -o-transition-delay: .5s;
-}
-.delayp6 {
-  animation-delay: .6s;
-  -moz-animation-delay: .6s;
-  -webkit-animation-delay: .6s;
-  -o-animation-delay: .6s;
-  transition-delay: .6s;
-  -webkit-transition-delay: .6s;
-  -moz-transition-delay: .6s;
-  -o-transition-delay: .6s;
-}
-.delayp7 {
-  animation-delay: .7s;
-  -moz-animation-delay: .7s;
-  -webkit-animation-delay: .7s;
-  -o-animation-delay: .7s;
-  transition-delay: .7s;
-  -webkit-transition-delay: .7s;
-  -moz-transition-delay: .7s;
-  -o-transition-delay: .7s;
-}
-.delayp8 {
-  animation-delay: .8s;
-  -moz-animation-delay: .8s;
-  -webkit-animation-delay: .8s;
-  -o-animation-delay: .8s;
-  transition-delay: .8s;
-  -webkit-transition-delay: .8s;
-  -moz-transition-delay: .8s;
-  -o-transition-delay: .8s;
-}
-.delayp9 {
-  animation-delay: .9s;
-  -moz-animation-delay: .9s;
-  -webkit-animation-delay: .9s;
-  -o-animation-delay: .9s;
-  transition-delay: .9s;
-  -webkit-transition-delay: .9s;
-  -moz-transition-delay: .9s;
-  -o-transition-delay: .9s;
-}
-.delay1s {
-  animation-delay: 1s;
-  -moz-animation-delay: 1s;
-  -webkit-animation-delay: 1s;
-  -o-animation-delay: 1s;
-  transition-delay: 1s;
-  -webkit-transition-delay: 1s;
-  -moz-transition-delay: 1s;
-  -o-transition-delay: 1s;
-}
-.delay2s {
-  animation-delay: 2s;
-  -moz-animation-delay: 2s;
-  -webkit-animation-delay: 2s;
-  -o-animation-delay: 2s;
-  transition-delay: 2s;
-  -webkit-transition-delay: 2s;
-  -moz-transition-delay: 2s;
-  -o-transition-delay: 2s;
-}
+
 /* ======= Homepage Headline Background & Slideshow ======= */
 .bg-slider-wrapper {
   content: "";
@@ -319,7 +200,7 @@ select {
 }
 .bg-slider-wrapper .flexslider .slide {
   display: block;
-  height: 680px;
+  height: 685px;
 }
 .bg-slider-wrapper .flexslider .slide.slide-1 {
   background: #fff url('../images/background/bg.masthead.jpg') no-repeat 50% top;
@@ -928,7 +809,7 @@ body.modal-open {
   font-size: 38px;
   font-weight: bold;
   margin-bottom: 15px;
-  margin-top: 180px;
+  margin-top: 100px;
 }
 .promo .intro .summary {
   color: #fff;
@@ -1831,10 +1712,6 @@ body.modal-open {
 }
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
-  .wrapper {
-    min-height: inherit;
-    margin-bottom: 0;
-  }
   .wrapper:after {
     content: none;
   }
@@ -2073,17 +1950,6 @@ body.modal-open {
   body {
     height: 100%;
   }
-  .wrapper {
-    min-height: 100%;
-    margin-bottom: -296px;
-    /* equal to footer height */
-  }
-  .wrapper:after {
-    content: "";
-    display: block;
-    height: 296px;
-    /* must be the same height as footer */
-  }
   .footer {
     height: 296px;
     /* must be the same height as footer */
@@ -2094,7 +1960,7 @@ body.modal-open {
 
 @font-face {
   font-family: 'AvenirRom';
-  src: url('/fonts/AvenirLTStd-Roman.ttf'); /* IE9 Compat Modes */
+  src: url('../fonts/AvenirLTStd-Roman.ttf'); /* IE9 Compat Modes */
 }
 
 @media (min-width: 1200px) {
@@ -2121,4 +1987,109 @@ body.modal-open {
 
 .sub-main {
   background: #fff;
+}
+
+.destination-bar {
+
+}
+
+.destination-bar input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #fff;
+}
+.destination-bar input::-moz-placeholder { /* Firefox 19+ */
+  color: #fff;
+}
+.destination-bar input:-ms-input-placeholder { /* IE 10+ */
+  color: #fff;
+}
+.destination-bar input:-moz-placeholder { /* Firefox 18- */
+  color: #fff;
+}
+
+.destination-bar input {
+  background: transparent;
+  border: none;
+  outline: none;
+  margin-top: 60px;
+  border: 2px solid #fff;
+  padding: 15px 20px;
+  width: 400px;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: "Montserrat", sans-serif;
+}
+
+.destination-bar input:nth-child(1) {
+  width: 290px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.destination-bar input:nth-child(2) {
+  width: 290px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.destination-bar input:nth-child(3) {
+  width: 200px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.destination-bar button {
+  background: #65a25d;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 800;
+  border: 2px solid #fff;
+  padding: 15px 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.bottom-bar-row {
+  margin: 0px;
+}
+
+.bottom-bar {
+  text-align: center !important;
+}
+
+.starting {
+  width: 64px;
+  height: 64px;
+  background: transparent url('../images/background/001-car.png') no-repeat 0px 0px;
+}
+
+.budget {
+  width: 64px;
+  height: 64px;
+  background: transparent url('../images/background/002-disability.png') no-repeat 50px 0px;
+}
+
+.bids {
+  width: 64px;
+  height: 64px;
+  background: transparent url('../images/background/003-map-with-placeholder.png') no-repeat 0px 0px;
+}
+
+.phone {
+  position: fixed;
+  top: 20px;
+  right: 60px;
+  font-weight: 800;
+  font-size: 20px;
+}
+.main-title {
+  color: #fff;
+  font-size: 38px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  margin-top: 100px;
+}
+
+.main-summary {
+  color: #fff;
+  font-size: 22px;
+  margin-bottom: 15px;
 }
