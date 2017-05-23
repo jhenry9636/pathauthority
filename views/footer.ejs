@@ -1,6 +1,8 @@
 </body>
 <!-- Javascript -->
 <script type="text/javascript" src="assets/plugins/jquery-1.12.3.min.js"></script>
+
+<script type="text/javascript" src="assets/plugins/jquery.maskedinput.min.js"></script>
 <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/plugins/bootstrap-hover-dropdown.min.js"></script>
 <script type="text/javascript" src="assets/plugins/jquery-inview/jquery.inview.min.js"></script>
@@ -10,6 +12,48 @@
 <script type="text/javascript" src="assets/plugins/FitVids/jquery.fitvids.js"></script>
 <script type="text/javascript" src="assets/plugins/flexslider/jquery.flexslider-min.js"></script>
 <script type="text/javascript" src="assets/js/main.js"></script>
+
+<script>
+  // This example requires the Places library. Include the libraries=places
+  // parameter when you first load the API. For example:
+  // <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places">
+
+  function initMap() {
+    var start = document.getElementById('starting-point');
+    var dest = document.getElementById('dest-point');
+
+    var startAutocomplete = new google.maps.places.Autocomplete(start);
+    var destAutocomplete = new google.maps.places.Autocomplete(dest);
+
+    // Bind the map's bounds (viewport) property to the autocomplete object,
+    // so that the autocomplete requests use the current map bounds for the
+    // bounds option in the request.
+
+  }
+
+
+  function fireModal() {
+    setTimeout(function() {
+      $('#driver').modal()
+    }, 6000)
+  }
+
+  $('#findMyDriver').click(function() {
+    $('#findMyDriver').hide()
+    $('#spinner').show()
+  })
+
+  $('#order-number').html(Math.floor(Math.random()*90000) + 10000)
+
+
+  $(function($) {
+    $('#phone').mask("(999)999-9999");
+  })
+</script>
+
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5_a1cEeF6xrmZFnyqNQi2hvohQHtjGfg&libraries=places&callback=initMap"
+        async defer></script>
 
 <!-- Vimeo video API -->
 <script src="http://a.vimeocdn.com/js/froogaloop2.min.js"></script>

@@ -2012,21 +2012,21 @@ body.modal-open {
   outline: none;
   margin-top: 60px;
   border: 2px solid #fff;
-  padding: 15px 20px;
+  padding: 15px 5px;
   width: 400px;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 800;
   font-family: "Montserrat", sans-serif;
 }
 
 .destination-bar input:nth-child(1) {
-  width: 290px;
+  width: 345px;
   margin-left: 5px;
   margin-right: 5px;
 }
 
 .destination-bar input:nth-child(2) {
-  width: 290px;
+  width: 345px;
   margin-left: 5px;
   margin-right: 5px;
 }
@@ -2037,10 +2037,13 @@ body.modal-open {
   margin-right: 5px;
 }
 
-.destination-bar button {
+.destination-bar .go {
+  width: 160px;
+  height: 55px;
+  display: inline-block;
   background: #65a25d;
   color: #fff;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 800;
   border: 2px solid #fff;
   padding: 15px 20px;
@@ -2092,4 +2095,27 @@ body.modal-open {
   color: #fff;
   font-size: 25px;
   margin-bottom: 15px;
+}
+
+.modal-header, .modal-body {
+  background: #65a25d;
+  color: #fff;
+}
+
+#spinner {
+  display: none;
+  font-size: 20px;
+ }
+
+.driver-header {
+  margin: 0px;
+  padding: 0px;
+}
+
+.driver-header p {
+  text-align: center;
+  font-size: 25px;
+  color: #fff;
+  font-weight: 800;
+  margin: 0px;
 }

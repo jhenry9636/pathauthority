@@ -104,7 +104,8 @@ $(document).ready(function() {
 		$listItem.siblings().removeClass('active');
 
 		e.preventDefault();
-
+      
+      
 	});
 
 
