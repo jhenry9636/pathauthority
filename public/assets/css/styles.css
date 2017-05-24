@@ -2121,12 +2121,15 @@ body.modal-open {
 }
 
 .work {
-  margin-top: 60px;
+  padding-top: 30px;
   text-align: center;
+  background: #31708f;
+  color: #fff;
+  padding-bottom: 80px;
 }
 
 .work ul {
-  margin-top: 60px;
+  padding-top: 60px;
 }
 
 .work ul li {
@@ -2134,11 +2137,14 @@ body.modal-open {
   float: left;
   width: 32%;
   text-align: center;
+  color: #fff;
 }
 
 .work ul li p {
-  padding: 0px 60px;
+  padding: 0px 45px;
   font-size: 25px;
+  color: #fff;
+  font-weight: 800;
 }
 
 .icon-file {
