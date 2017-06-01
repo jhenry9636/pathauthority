@@ -1970,10 +1970,10 @@ body.modal-open {
 }
 
 .logo-text {
-  margin-top: 48px;
+  margin-top: -12px;
   display: block;
   width: auto;
-  text-align: center;
+  text-align: left;
 }
 
 .logo-title {
@@ -2015,7 +2015,6 @@ body.modal-open {
   padding: 15px 5px;
   width: 400px;
   font-size: 15px;
-  font-weight: 800;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -2159,4 +2158,14 @@ body.modal-open {
 
 .car {
   background: transparent url('../images/icons/car.svg') 0px 0px;
+}
+
+.main-section {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 45px 30px;
+  margin-top: 120px;
+}
+
+.main-title {
+  margin-top: 0px;
 }
